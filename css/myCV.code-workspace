@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../myCV"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "startbootstrap-resume-gh-pages"
+	}
+}
